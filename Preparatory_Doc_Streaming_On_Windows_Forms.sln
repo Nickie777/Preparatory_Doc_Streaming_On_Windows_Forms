@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Preparatory_Doc_Streaming_On_Windows_Forms", "Preparatory_Doc_Streaming_On_Windows_Forms.csproj", "{A19B874C-85E4-49FD-B5AD-7BA2036A767F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A19B874C-85E4-49FD-B5AD-7BA2036A767F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A19B874C-85E4-49FD-B5AD-7BA2036A767F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A19B874C-85E4-49FD-B5AD-7BA2036A767F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A19B874C-85E4-49FD-B5AD-7BA2036A767F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEF8884A-5AF1-4A7D-BE70-EE522AA8F4F1}
+	EndGlobalSection
+EndGlobal
