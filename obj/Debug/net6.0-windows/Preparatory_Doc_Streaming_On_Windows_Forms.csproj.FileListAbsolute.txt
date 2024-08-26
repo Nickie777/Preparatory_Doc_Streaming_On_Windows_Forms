@@ -45,3 +45,4 @@ D:\source\repos\Preparatory_Doc_Streaming_On_Windows_Forms\obj\Debug\net6.0-wind
 D:\source\repos\Preparatory_Doc_Streaming_On_Windows_Forms\obj\Debug\net6.0-windows\Preparatory_Doc_Streaming_On_Windows_Forms.pdb
 D:\source\repos\Preparatory_Doc_Streaming_On_Windows_Forms\obj\Debug\net6.0-windows\Preparatory_Doc_Streaming_On_Windows_Forms.genruntimeconfig.cache
 D:\source\repos\Preparatory_Doc_Streaming_On_Windows_Forms\obj\Debug\net6.0-windows\ref\Preparatory_Doc_Streaming_On_Windows_Forms.dll
+D:\source\repos\Preparatory_Doc_Streaming_On_Windows_Forms\obj\Debug\net6.0-windows\Preparatory_Doc_Streaming_On_Windows_Forms.sourcelink.json

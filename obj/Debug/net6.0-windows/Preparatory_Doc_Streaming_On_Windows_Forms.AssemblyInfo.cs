@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Preparatory_Doc_Streaming_On_Windows_Forms")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e62a2c2ed976d7eeddcccb631fa4e71e6a0092fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("Preparatory_Doc_Streaming_On_Windows_Forms")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Preparatory_Doc_Streaming_On_Windows_Forms")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
